@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+#c {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
